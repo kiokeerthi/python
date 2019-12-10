@@ -7,7 +7,7 @@ while True:
    else:
      print("please enter valid mail id")
      continue
-w?hile True:
+while True:
     pas=input("enter your password:")
     if len(pas)==6 or len(pas)==7 or len(pas)==8:
       break
